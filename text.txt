@@ -1,1 +1,2 @@
 текст rest
+mew string
